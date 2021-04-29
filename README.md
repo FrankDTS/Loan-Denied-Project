@@ -1,4 +1,4 @@
-# [Loan_Denied_Project](https://github.com/FrankDTS/Loan_Denied_Project/blob/main/Loan_Denied_Project.ipynb)
+# [Loan Denied Project](https://github.com/FrankDTS/Loan_Denied_Project/blob/main/Loan_Denied_Project.ipynb)
   1. Built several Neural Network and Machine Learning models (ANN, RandomFordst, and XGboost) to predict whether the bank should deny the loan application
   2. Data processing to transform data and several Feature Engineering methods to fill with columns that have NA values.
 
