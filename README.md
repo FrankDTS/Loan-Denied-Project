@@ -15,7 +15,13 @@
      1. Zip: only take second and third number since the first number is 'State information', which is all same. The second and third number means smaller region.
      2. ApprovalDate: it is 5 numbrer format. So first change it to Y-m-d format, then take year and month information
      3. Term: group 60, 84, 120, 240, 300 days together since it have significantly larger amount of people apply at these duration, and also there MIS_Status situation are same. Seperate 36 days as a single category since it also have significantly more people apply at that duration compare to other days but it have different MIS_Status with the group abrove.
+     
+     ![](/images/1.png)
+     
      4. FranchiseCode: Seperate FranchiseCode = 1 and 2 as two category since there are much more people in these two group compare to others. group other FranchiseCode as one group
+     
+     ![](/images/1.png)
+     
      5. RevLineCr: it have some wrong value in the data set (0, T), so treat them as Null value
      6. LowDoc: it have some wrong value in the data set (0, S, A), so treat them as Null value
 
