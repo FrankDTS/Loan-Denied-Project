@@ -2,7 +2,7 @@
   1. Built several Neural Network and Machine Learning models (ANN, RandomFordst, and XGboost) to predict whether the bank should deny the loan application
   2. Data processing to transform data and several Feature Engineering methods to fill with columns that have NA values.
 
-# Code and Resoused Used
+# Code and Resourced Used
   * Python 3.8
   * Packages: pandas, numpy, seaborn, matplotlib, sklearn, Xgboost, keras
   * [Xgboost parameter] (https://xgboost.readthedocs.io/en/latest/parameter.html)
